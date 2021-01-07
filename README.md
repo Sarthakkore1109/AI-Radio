@@ -1,4 +1,4 @@
-# sensor_check_app
+# AI-Radio App
 
 A new Flutter application.
 
